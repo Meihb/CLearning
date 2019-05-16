@@ -1,0 +1,3 @@
+D:/version_control/git/CLearning/EvaluateExpression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/version_control/git/CLearning/EvaluateExpression/cmake-build-debug/CMakeFiles/EvaluateExpression.dir
+D:/version_control/git/CLearning/EvaluateExpression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
